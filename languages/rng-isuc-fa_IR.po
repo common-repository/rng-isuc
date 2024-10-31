@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-03-18 10:50+0430\n"
+"PO-Revision-Date: 2019-03-18 11:15+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/settings-panel.php:10
+msgid "Settings Updated"
+msgstr "تنظیمات به روز شدند"
+
+#: admin/settings-panel.php:12
+msgid "Error with Updating"
+msgstr "خطا در  زمان ذخیره سازی"
+
+#: admin/settings-panel.php:21
+msgid "save"
+msgstr "ذخیره تنظیمات"
+
+#: includes/class.controller.settings.php:52
+msgid "Last posts viewed"
+msgstr "آخرین پست های مشاهده شده"
+
+#: includes/class.controller.settings.php:68
+msgid "General settings"
+msgstr "تنظیمات عمومی"
+
+#: includes/class.controller.settings.php:69
+msgid "Set user post viewed"
+msgstr "ثبت پست های بازدید شده کاربر"
+
+#: includes/class.controller.settings.php:70
+msgid "Show Side Nav post viewed"
+msgstr "بازدید اخیر در قالب منو کنار"
+
+#: includes/class.controller.settings.php:71
+msgid "Permission"
+msgstr "دسترسی پست تایپ ها"
+
+#: includes/class.controller.settings.php:72
+msgid "Post Count"
+msgstr "تعداد نوشته"
+
+#: includes/class.controller.settings.php:79
+msgid ""
+"General Settings of rng-isuc WP Plugin. At The First Please select Post "
+"types."
+msgstr ""
+"تنظیمات عمومی پلاگین بازدید های اخیر . لطفا ابتدا پست تایپ هایی که قرار است "
+"از آن ها بازدید ثبت شود را انتخاب کنید."
+
+#: includes/class.controller.settings.php:91
+#: includes/class.controller.settings.php:137
+msgid "Yes"
+msgstr "بله"
+
+#: includes/class.controller.settings.php:92
+#: includes/class.controller.settings.php:138
+msgid "No"
+msgstr "خیر"
+
+#: includes/class.controller.settings.php:161
+msgid "rng-isuc is activated, you may need to configure it to work properly."
+msgstr ""
+"پلاگین آخرین پست های مشاهده شده فعال شد. لطفا ابتدا تنظیمات آن را پیکره بندی "
+"کنید تا کارکرد پلاگین بهتر شود."
+
+#: includes/class.controller.settings.php:161
+msgid "Go to Settings page"
+msgstr "رفتن به تنظیمات"
+
+#: includes/class.controller.settings.php:161
+msgid "Dismiss"
+msgstr "انصراف"
+
+#: includes/class.controller.settings.php:187
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: includes/translate.php:7
+msgid "rng-isuc"
+msgstr "ثبت آخرین پست های بازدید شده"
+
+#: includes/translate.php:8
+msgid ""
+"WordPress Plugin that shows last post viewed by user in several viewes like "
+"widget, shortcode and sidebar navigation"
+msgstr ""
+"پلاگین وردپرس جهت نمایش آخرین پست های بازدید شده کاربر در قالب ویدجت ، "
+"شورتکد ، منوی کناری ،‌ بهمراه پنل تنظیمات"
+
+#: includes/translate.php:9
+msgid "Abolfazl Sabagh"
+msgstr "ابوالفضل صباغ"
+
+#: includes/widgets/last-post-viewed.php:10
+msgid "Show last post viewed by user"
+msgstr "نمایش آخرین پست های مشاهده شده توسط کاربر"
+
+#: includes/widgets/last-post-viewed.php:12
+msgid "Last PostViewed"
+msgstr "نمایش پست های مشاهده شده"
+
+#: includes/widgets/last-post-viewed.php:22
+msgid "Last Posts viewed"
+msgstr "آخرین پست های مشاهده شده"
+
+#: includes/widgets/last-post-viewed.php:73 templates/sidenav-postviewed.php:61
+msgid "No Post Was Viewed"
+msgstr "هیچ پستی بازدید نشده است"
+
+#: includes/widgets/last-post-viewed.php:90
+msgid "Last post viewed"
+msgstr "آخرین پست های مشاهده شده"
+
+#: includes/widgets/last-post-viewed.php:101
+msgid "Title"
+msgstr "عنوان"
+
+#: includes/widgets/last-post-viewed.php:105
+msgid "Select post types"
+msgstr "انتخاب پست تایپ"
+
+#: includes/widgets/last-post-viewed.php:118
+msgid "Posts per page"
+msgstr "تعداد پست در صفحه"
+
+#: includes/widgets/last-post-viewed.php:122
+msgid "Select style"
+msgstr "انتخاب استایل"
+
+#: includes/widgets/last-post-viewed.php:124
+msgid "style1 (simple list)"
+msgstr "استایل یک (لیست ساده)"
+
+#: includes/widgets/last-post-viewed.php:125
+msgid "style2 (with thumbnail)"
+msgstr "استایل دو (نمایش پست و تصویر)"
+
+#: templates/sidenav-postviewed.php:8
+msgid "Recently Viewed"
+msgstr "موارد اخیراً مشاهده شده"
+
+#: templates/sidenav-postviewed.php:11
+msgid "Close"
+msgstr "بستن"
+
+#: templates/sidenav-postviewed.php:72
+msgid "Post Viewed"
+msgstr "بازدید اخیر"
+
+#~ msgid "rng-last-post-viewed"
+#~ msgstr "پلاگین آخرین پست های مشاهده شده"

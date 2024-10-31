@@ -1,0 +1,155 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-03-18 10:50+0430\n"
+"PO-Revision-Date: 2019-03-16 22:03+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/settings-panel.php:10
+msgid "Settings Updated"
+msgstr ""
+
+#: admin/settings-panel.php:12
+msgid "Error with Updating"
+msgstr ""
+
+#: admin/settings-panel.php:21
+msgid "save"
+msgstr ""
+
+#: includes/class.controller.settings.php:52
+msgid "Last posts viewed"
+msgstr ""
+
+#: includes/class.controller.settings.php:68
+msgid "General settings"
+msgstr ""
+
+#: includes/class.controller.settings.php:69
+msgid "Set user post viewed"
+msgstr ""
+
+#: includes/class.controller.settings.php:70
+msgid "Show Side Nav post viewed"
+msgstr ""
+
+#: includes/class.controller.settings.php:71
+msgid "Permission"
+msgstr ""
+
+#: includes/class.controller.settings.php:72
+msgid "Post Count"
+msgstr ""
+
+#: includes/class.controller.settings.php:79
+msgid ""
+"General Settings of rng-isuc WP Plugin. At The First Please select Post "
+"types."
+msgstr ""
+
+#: includes/class.controller.settings.php:91
+#: includes/class.controller.settings.php:137
+msgid "Yes"
+msgstr ""
+
+#: includes/class.controller.settings.php:92
+#: includes/class.controller.settings.php:138
+msgid "No"
+msgstr ""
+
+#: includes/class.controller.settings.php:161
+msgid "rng-isuc is activated, you may need to configure it to work properly."
+msgstr ""
+
+#: includes/class.controller.settings.php:161
+msgid "Go to Settings page"
+msgstr ""
+
+#: includes/class.controller.settings.php:161
+msgid "Dismiss"
+msgstr ""
+
+#: includes/class.controller.settings.php:187
+msgid "Settings"
+msgstr ""
+
+#: includes/translate.php:7
+msgid "rng-isuc"
+msgstr ""
+
+#: includes/translate.php:8
+msgid ""
+"WordPress Plugin that shows last post viewed by user in several viewes like "
+"widget, shortcode and sidebar navigation"
+msgstr ""
+
+#: includes/translate.php:9
+msgid "Abolfazl Sabagh"
+msgstr ""
+
+#: includes/widgets/last-post-viewed.php:10
+msgid "Show last post viewed by user"
+msgstr ""
+
+#: includes/widgets/last-post-viewed.php:12
+msgid "Last PostViewed"
+msgstr ""
+
+#: includes/widgets/last-post-viewed.php:22
+msgid "Last Posts viewed"
+msgstr ""
+
+#: includes/widgets/last-post-viewed.php:73 templates/sidenav-postviewed.php:61
+msgid "No Post Was Viewed"
+msgstr ""
+
+#: includes/widgets/last-post-viewed.php:90
+msgid "Last post viewed"
+msgstr ""
+
+#: includes/widgets/last-post-viewed.php:101
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/last-post-viewed.php:105
+msgid "Select post types"
+msgstr ""
+
+#: includes/widgets/last-post-viewed.php:118
+msgid "Posts per page"
+msgstr ""
+
+#: includes/widgets/last-post-viewed.php:122
+msgid "Select style"
+msgstr ""
+
+#: includes/widgets/last-post-viewed.php:124
+msgid "style1 (simple list)"
+msgstr ""
+
+#: includes/widgets/last-post-viewed.php:125
+msgid "style2 (with thumbnail)"
+msgstr ""
+
+#: templates/sidenav-postviewed.php:8
+msgid "Recently Viewed"
+msgstr ""
+
+#: templates/sidenav-postviewed.php:11
+msgid "Close"
+msgstr ""
+
+#: templates/sidenav-postviewed.php:72
+msgid "Post Viewed"
+msgstr ""
